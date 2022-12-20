@@ -9,7 +9,7 @@
 ##### Apply the trapezoidal trajectory planning.
 ##### Doing trajectory planning in joint space directly so that we can avoid multiple solutions while calculating inverse.
 ##### To avoid overspeed, trajectories are first visualized in MATLAB 
-<img src="https://user-images.githubusercontent.com/67407023/208688243-93567c13-c51b-4dba-a380-20939b886913.png" width="400" height="350">
+<img src="https://user-images.githubusercontent.com/67407023/208688243-93567c13-c51b-4dba-a380-20939b886913.png" width="400" height="300">
 
 
 
